@@ -1,9 +1,9 @@
 /**************************************
-* NOMBRE: #Jose Luis#
-* PRIMER APELLIDO: #Carrasco#
-* SEGUNDO APELLIDO: #López#
-* DNI: #75753442k#
-* EMAIL: #jcarrasco216@alumno.uned.es#
+* NOMBRE: #Tanis13#
+* PRIMER APELLIDO: #Kanan#
+* SEGUNDO APELLIDO: #Halfelven#
+* DNI: #00001101k#
+* EMAIL: #Tanis13@krynn.com#
 ***************************************/
 
 #include <stdio.h>
@@ -12,11 +12,11 @@
 int main()
 {
     printf ("---------------------------------------\n");
-    printf ("Jose Luis\n");
-    printf ("Carrasco\n");
-    printf ("López\n");
-    printf ("75753442k\n");
-    printf ("jcarrasco216@alumno.uned.es\n");
+    printf ("Tanis13\n");
+    printf ("Kanan\n");
+    printf ("Halfelven\n");
+    printf ("00001101k\n");
+    printf ("Tanis13@krynn.com\n");
     printf ("---------------------------------------\n");   
 
 }
